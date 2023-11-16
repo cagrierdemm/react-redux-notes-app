@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-notes-app/static/css/main.5d57956e.css",
+    "main.js": "/react-redux-notes-app/static/js/main.0ae31981.js",
+    "static/js/787.efbba48e.chunk.js": "/react-redux-notes-app/static/js/787.efbba48e.chunk.js",
+    "index.html": "/react-redux-notes-app/index.html",
+    "main.5d57956e.css.map": "/react-redux-notes-app/static/css/main.5d57956e.css.map",
+    "main.0ae31981.js.map": "/react-redux-notes-app/static/js/main.0ae31981.js.map",
+    "787.efbba48e.chunk.js.map": "/react-redux-notes-app/static/js/787.efbba48e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d57956e.css",
+    "static/js/main.0ae31981.js"
+  ]
+}
